@@ -6,8 +6,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I recently graduated with my associate's degree in business management and received a certificate in data analytics from the amazing team at TripleTen! I look forward to expanding my professional skills and joining a different industry!
 - My top three strengths in the workplace are adaptability, problem-solving, and multitasking.
-- Projects I have worked on include data from companies like Shopify and Zomato. Skilled in taking raw data and formulating action plans based on the information gathered.  
-
+- Projects I have worked on include data from companies like Shopify and Zomato. Skilled in taking raw data and formulating action plans based on the information gathered.
+  * Connect with me on LinkedIn - www.linkedin.com/in/tianna-hernandez
+  * Email - tiannahernandez390@gmail.com
 <!---
 Tianna-20/Tianna-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
